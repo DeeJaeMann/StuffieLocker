@@ -1,0 +1,12 @@
+[
+  {
+    "id" : 0,
+    "name" : "WhiteOl",
+    "photo" : "/Assets/Photos/WhiteOl.jpg",
+    "whylike" : "",
+    "favorite" : true,
+    "dateaquired" : "",
+    "placeaquired" : "",
+    "story" : ""
+  }
+]
