@@ -52,3 +52,48 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# JetBrains Rider IDE files
+.idea/
+*.sln.iml
+*.DotSettings
+*.DotSettings.user
+
+# Rider workspace and caches
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf/
+.idea/.idea_modules/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/httpRequests/
+
+# Rider-specific logs and indexes
+.idea/indexes/
+.idea/assetWizard/
+.idea/gradle.xml
+.idea/tasks.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/runConfigurations/
+
+# Rider UI designer and code style
+.idea/uiDesigner.xml
+.idea/codeStyles/
+
+# Rider C# specific
+.idea/.Rider2019.3/
+.idea/.Rider2020.1/
+.idea/.Rider2021.1/
+.idea/.Rider2022.1/
+.idea/.Rider2023.1/
+.idea/.Rider*/  # wildcard for future versions
+
+# Rider Android-specific
+.idea/caches/
+.idea/libraries/
+.idea/modules/
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
