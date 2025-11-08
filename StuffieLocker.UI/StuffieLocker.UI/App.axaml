@@ -1,0 +1,21 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="using:StuffieLocker.UI"
+             xmlns:sty="using:FluentAvalonia.Styling"
+             xmlns:ui="using:FluentAvalonia.UI.Controls"
+             xmlns:uip="using:FluentAvalonia.UI.Controls.Primitives"
+             x:Class="StuffieLocker.UI.App"
+             RequestedThemeVariant="Default">
+             <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
+
+    <Application.DataTemplates>
+        <local:ViewLocator/>
+    </Application.DataTemplates>
+             
+    <!-- <sty:FluentAvaloniaTheme /> -->
+
+    <Application.Styles>
+        <!-- <FluentTheme /> -->
+        <sty:FluentAvaloniaTheme PreferUserAccentColor="True"/>
+    </Application.Styles>
+</Application>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StuffieLocker.UI", "StuffieLocker.UI", "{CE417C55-CFD9-4243-8454-8813F0F50C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuffieLocker.UI", "StuffieLocker.UI\StuffieLocker.UI\StuffieLocker.UI.csproj", "{AE11AE7F-84B5-42BF-A6DB-D6EB70FAA182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuffieLocker.UI.Android", "StuffieLocker.UI\StuffieLocker.UI.Android\StuffieLocker.UI.Android.csproj", "{630E894F-21E7-42DB-A3E6-950AFC6D8A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuffieLocker.UI.Browser", "StuffieLocker.UI\StuffieLocker.UI.Browser\StuffieLocker.UI.Browser.csproj", "{A0631AE9-5A58-4C69-8FE0-11F479D4953B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuffieLocker.UI.Desktop", "StuffieLocker.UI\StuffieLocker.UI.Desktop\StuffieLocker.UI.Desktop.csproj", "{E6E49FDA-E6B4-4782-9500-50E247E67252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuffieLocker.UI.iOS", "StuffieLocker.UI\StuffieLocker.UI.iOS\StuffieLocker.UI.iOS.csproj", "{F8E76E91-DB56-4E88-8DEA-FA80B8C3D138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE11AE7F-84B5-42BF-A6DB-D6EB70FAA182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE11AE7F-84B5-42BF-A6DB-D6EB70FAA182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE11AE7F-84B5-42BF-A6DB-D6EB70FAA182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE11AE7F-84B5-42BF-A6DB-D6EB70FAA182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630E894F-21E7-42DB-A3E6-950AFC6D8A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630E894F-21E7-42DB-A3E6-950AFC6D8A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630E894F-21E7-42DB-A3E6-950AFC6D8A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630E894F-21E7-42DB-A3E6-950AFC6D8A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0631AE9-5A58-4C69-8FE0-11F479D4953B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0631AE9-5A58-4C69-8FE0-11F479D4953B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0631AE9-5A58-4C69-8FE0-11F479D4953B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0631AE9-5A58-4C69-8FE0-11F479D4953B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E49FDA-E6B4-4782-9500-50E247E67252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E49FDA-E6B4-4782-9500-50E247E67252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E49FDA-E6B4-4782-9500-50E247E67252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E49FDA-E6B4-4782-9500-50E247E67252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E76E91-DB56-4E88-8DEA-FA80B8C3D138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E76E91-DB56-4E88-8DEA-FA80B8C3D138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E76E91-DB56-4E88-8DEA-FA80B8C3D138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E76E91-DB56-4E88-8DEA-FA80B8C3D138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE11AE7F-84B5-42BF-A6DB-D6EB70FAA182} = {CE417C55-CFD9-4243-8454-8813F0F50C4E}
+		{630E894F-21E7-42DB-A3E6-950AFC6D8A2A} = {CE417C55-CFD9-4243-8454-8813F0F50C4E}
+		{A0631AE9-5A58-4C69-8FE0-11F479D4953B} = {CE417C55-CFD9-4243-8454-8813F0F50C4E}
+		{E6E49FDA-E6B4-4782-9500-50E247E67252} = {CE417C55-CFD9-4243-8454-8813F0F50C4E}
+		{F8E76E91-DB56-4E88-8DEA-FA80B8C3D138} = {CE417C55-CFD9-4243-8454-8813F0F50C4E}
+	EndGlobalSection
+EndGlobal

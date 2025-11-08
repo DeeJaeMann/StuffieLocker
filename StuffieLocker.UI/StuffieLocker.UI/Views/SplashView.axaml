@@ -1,0 +1,20 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="StuffieLocker.UI.Views.SplashView">
+    <Panel Background="#1e1e1e">
+        <StackPanel Spacing="10"
+                    VerticalAlignment="Center">
+            <Image Source="/Assets/Photos/StuffieLockerSplash.png" 
+                   Height="300"
+                   Width="300"/>
+            <ProgressBar Name="SplashProgressBar"
+                         MaxWidth="200"
+                         Margin="0"/>
+            <TextBlock Text="Loading..."
+                       Name="LoadingText"
+                       HorizontalAlignment="Center"
+                       FontSize="20"
+                       Foreground="White" />
+        </StackPanel>
+    </Panel>
+</UserControl>
