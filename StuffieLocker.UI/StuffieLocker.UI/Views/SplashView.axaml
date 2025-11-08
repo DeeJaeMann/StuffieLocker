@@ -4,7 +4,7 @@
     <Panel Background="#1e1e1e">
         <StackPanel Spacing="10"
                     VerticalAlignment="Center">
-            <Image Source="/Assets/Photos/StuffieLockerSplash.png" 
+            <Image Source="/Assets/Images/StuffieLockerSplash.png" 
                    Height="300"
                    Width="300"/>
             <ProgressBar Name="SplashProgressBar"

@@ -6,7 +6,7 @@
         xmlns:views="using:StuffieLocker.UI.Views"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="StuffieLocker.UI.Views.MainWindow"
-        Icon="/Assets/avalonia-logo.ico"
+        Icon="/Assets/Images/StuffieLockerFavicon.ico"
         Title="StuffieLocker">
         <views:MainView />
 </Window>
