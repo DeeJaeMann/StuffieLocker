@@ -3,10 +3,47 @@
     "id" : 0,
     "name" : "WhiteOl",
     "photo" : "/Assets/Photos/WhiteOl.jpg",
-    "whylike" : "",
+    "whylike" : "Because it is a white owl",
     "favorite" : true,
-    "dateaquired" : "",
-    "placeaquired" : "",
-    "story" : ""
+    "dateaquired" : {
+      "remember" : false,
+      "date" :  ""},
+    "placeaquired" : {
+      "remember" : false,
+      "place" : ""
+    },
+    "story" : "WhiteOl was on a journey to eat 100 mice when he did, he went back home."
+  },
+  {
+    "id" : 1,
+    "name" : "Taco Dog",
+    "photo" : "/Assets/Photos/TacoDog.jpg",
+    "whylike" : "It looks like a dog in a taco costume",
+    "favoite" : true,
+    "dateaquired" : {
+      "remember" : false,
+      "date" : ""
+    },
+    "placeaquired" : {
+      "remember" : false,
+      "place" : ""
+    },
+    "story" : "Taco Dog was just a dog when he ate 1000 tacos and became taco dog."
+  },
+  {
+    "id" : 2,
+    "name" : "Cute Penguin",
+    "photo" : "/Assets/Photos/CutePenguin.jpg",
+    "whylike" : "Because it is so cute",
+    "favoite" : true,
+    "dateaquired" : {
+      "remember" : false,
+      "date" : ""
+    },
+    "placeaquired" : {
+      "remember" : false,
+      "place" : ""
+    },
+    "story" : "Cute Penguin was an egg. So when she hatched she was so cute that she was named Cute Pengin."
   }
 ]
