@@ -2,6 +2,11 @@
 
 namespace StuffieLocker.UI.ViewModels;
 
-public abstract class ViewModelBase : ObservableObject
+public partial class ViewModelBase : ObservableObject
 {
+    [ObservableProperty] 
+    [NotifyPropertyChangedFor(nameof(IsNotBusy))]
+    private bool isBusy;
+    
+    public bool IsNotBusy => !IsBusy;
 }

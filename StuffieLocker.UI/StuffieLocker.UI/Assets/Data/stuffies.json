@@ -2,48 +2,31 @@
   {
     "id" : 0,
     "name" : "WhiteOl",
-    "photo" : "/Assets/Photos/WhiteOl.jpg",
+    "photo" : "avares://StuffieLocker.UI/Assets/Photos/WhiteOl.jpg",
     "whylike" : "Because it is a white owl",
     "favorite" : true,
-    "dateaquired" : {
-      "remember" : false,
-      "date" :  ""},
-    "placeaquired" : {
-      "remember" : false,
-      "place" : ""
-    },
-    "story" : "WhiteOl was on a journey to eat 100 mice when he did, he went back home."
+    "dateaquired" : "",
+    "placeaquired" : "",
+    "story" : "WhiteOl was on a journey to eat 100 mice. When he did, he went back home."
   },
   {
     "id" : 1,
     "name" : "Taco Dog",
-    "photo" : "/Assets/Photos/TacoDog.jpg",
+    "photo" : "avares://StuffieLocker.UI/Assets/Photos/TacoDog.jpg",
     "whylike" : "It looks like a dog in a taco costume",
     "favoite" : true,
-    "dateaquired" : {
-      "remember" : false,
-      "date" : ""
-    },
-    "placeaquired" : {
-      "remember" : false,
-      "place" : ""
-    },
+    "dateaquired" : "",
+    "placeaquired" : "",
     "story" : "Taco Dog was just a dog when he ate 1000 tacos and became taco dog."
   },
   {
     "id" : 2,
     "name" : "Cute Penguin",
-    "photo" : "/Assets/Photos/CutePenguin.jpg",
+    "photo" : "avares://StuffieLocker.UI/Assets/Photos/CutePenguin.jpg",
     "whylike" : "Because it is so cute",
     "favoite" : true,
-    "dateaquired" : {
-      "remember" : false,
-      "date" : ""
-    },
-    "placeaquired" : {
-      "remember" : false,
-      "place" : ""
-    },
+    "dateaquired" : "",
+    "placeaquired" : "",
     "story" : "Cute Penguin was an egg. So when she hatched she was so cute that she was named Cute Pengin."
   }
 ]
